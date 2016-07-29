@@ -1,0 +1,6 @@
+C:\Users\richa.DESKTOP-142CAUP\source\OS Tools\FreeWipe\FreeWipe\bin\Debug\FreeWipe.exe.config
+C:\Users\richa.DESKTOP-142CAUP\source\OS Tools\FreeWipe\FreeWipe\bin\Debug\FreeWipe.exe
+C:\Users\richa.DESKTOP-142CAUP\source\OS Tools\FreeWipe\FreeWipe\bin\Debug\FreeWipe.pdb
+C:\Users\richa.DESKTOP-142CAUP\source\OS Tools\FreeWipe\FreeWipe\obj\Debug\FreeWipe.csprojResolveAssemblyReference.cache
+C:\Users\richa.DESKTOP-142CAUP\source\OS Tools\FreeWipe\FreeWipe\obj\Debug\FreeWipe.exe
+C:\Users\richa.DESKTOP-142CAUP\source\OS Tools\FreeWipe\FreeWipe\obj\Debug\FreeWipe.pdb
